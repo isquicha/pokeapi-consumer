@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pokeapi",
-    "slug": "pokeapi",
+    "name": "pokeapi consumer",
+    "slug": "pokeapi consumer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
